@@ -1,4 +1,3 @@
-@@ -0,0 +1,348 @@
 # MeetPoint
 
 A real-time collaborative whiteboard application. Teams join shared rooms, draw freely, drop sticky notes, chat, cast star votes, and export the board as PNG / JPG / PDF — all synchronized live via WebSocket.
