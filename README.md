@@ -133,8 +133,6 @@ done
 | `CSRF_SECRET` | `csrf_secret_here` | CSRF cookie signing secret |
 | `VITE_SERVER_URL` | `http://localhost:3001` | *(client-only)* API base URL |
 
-> **Security** — Never commit `.env` with real secrets. Use a secrets manager in production (AWS Secrets Manager, Vault, etc.).
-
 ---
 
 ## Available Scripts
