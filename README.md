@@ -79,7 +79,7 @@ echo "VITE_SERVER_URL=http://localhost:3001" > .env.local
 
 npm run dev          # Vite HMR on :5173
 npm run build        # production bundle → dist/
-npm run preview      # serve dist/ locall
+npm run preview      # serve dist/ locally
 ```
 
 ---
